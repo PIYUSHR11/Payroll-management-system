@@ -1,0 +1,27 @@
+User and Login: One-to-One relationship
+
+User and Login have a one-to-one relationship through the user_id and login_employee_id.
+User and Country: Many-to-One relationship
+
+User and Country have a many-to-one relationship through the user_country and country_id.
+Employee and Country: Many-to-One relationship
+
+Employee and Country have a many-to-one relationship through the employee_country and country_id.
+Employee and Month: Many-to-One relationship
+
+Employee and Month have a many-to-one relationship through the employee_month and month_id.
+Employee and Roles: Many-to-One relationship
+
+Employee and Roles have a many-to-one relationship through the employee_roles and roles_id.
+Employee and Saluation: Many-to-One relationship
+
+Employee and Saluation have a many-to-one relationship through the employee_saluation and saluation_id.
+Employee and State: Many-to-One relationship
+
+Employee and State have a many-to-one relationship through the employee_state and state_id.
+User and Employee: One-to-One relationship
+
+User and Employee have a one-to-one relationship through the user_id and employee_id.
+Feedback and Employee: One-to-One relationship
+
+Feedback and Employee have a one-to-one relationship through the feedback_id and employee_id.
